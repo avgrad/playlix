@@ -1,6 +1,6 @@
 {
   "name": "playlix",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "A small web application to export your Spotify playlists",
   "main": "index.html",
   "scripts": {
