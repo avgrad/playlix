@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/avgrad/playlix",
   "dependencies": {
+    "@fontsource/roboto": "^4.5.8",
     "@material-ui/core": "^4.11.1",
     "@material-ui/icons": "^4.9.1",
     "papaparse": "^5.3.0",
