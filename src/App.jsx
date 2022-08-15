@@ -6,7 +6,7 @@ import Playlist from './Playlist';
 import AppFrame from './AppFrame/AppFrame';
 import Home from './Home';
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
-import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
+import createMuiTheme from '@material-ui/core/styles';
 
 // custom theme color green
 const theme = createMuiTheme({
