@@ -72,12 +72,12 @@ function AppFrame(props) {
             </Grid>
             <Grid item>
               <Typography variant='caption'>
-                Created in 2019 by sydeslyde
+                Created in 2019 by <Link href='https://github.com/avgrad' target='_blank'>avgrad</Link>
               </Typography>
             </Grid>
             <Grid item>
               <Typography variant='caption'>
-                Released as Open Source on <Link href='https://github.com/sydeslyde/playlix' target='_blank' className={classes.ghLink}>GitHub</Link>
+                Released as Open Source on <Link href='https://github.com/avgrad/playlix' target='_blank' className={classes.ghLink}>GitHub</Link>
               </Typography>
             </Grid>
           </Grid>

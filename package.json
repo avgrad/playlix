@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sydeslyde/playlix.git"
+    "url": "git+https://github.com/avgrad/playlix.git"
   },
-  "author": "sydeslyde",
+  "author": "avgrad",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/sydeslyde/playlix/issues"
+    "url": "https://github.com/avgrad/playlix/issues"
   },
-  "homepage": "https://github.com/sydeslyde/playlix",
+  "homepage": "https://github.com/avgrad/playlix",
   "dependencies": {
     "@material-ui/core": "^4.11.1",
     "@material-ui/icons": "^4.9.1",
